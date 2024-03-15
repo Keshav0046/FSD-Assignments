@@ -1,0 +1,28 @@
+body{
+    margin: 0%;
+     background-color: white;
+}
+table{
+    border-spacing:0 ;   
+}
+td{
+    padding: 0;
+}
+img{
+    border: 0;
+}
+.wrapper{
+    width: 100%;
+    table-layout: fixed;
+    padding-bottom: 60px;
+    background-color: #cccccccc;
+}
+.main{
+    background-color: #ffffffff;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 600px;
+    border-spacing: 0;
+    font-family: sans-serif;
+    color: #4a4a4a;
+}
